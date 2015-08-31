@@ -1,0 +1,19 @@
+{
+  "name": "create-protobuf",
+  "version": "1.0.0",
+  "description": "create a protobuf from another schema ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karissa/create-protobuf.git"
+  },
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karissa/create-protobuf/issues"
+  },
+  "homepage": "https://github.com/karissa/create-protobuf"
+}
