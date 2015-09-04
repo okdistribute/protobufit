@@ -1,7 +1,7 @@
 {
   "name": "protobufit",
   "version": "1.0.0",
-  "description": "Convert any schema to a protobuf",
+  "description": "Convert any schema to a Protocol Buffer .proto file",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -22,6 +22,7 @@
   "dependencies": {
     "concat-stream": "^1.5.0",
     "jsonschema-protobuf": "^1.0.1",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "sql-protobuf": "^1.0.0"
   }
 }
